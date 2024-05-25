@@ -1,0 +1,14 @@
+[
+    {
+      "name": "CapitalizedWord",
+      "description": "Palabras que empiezan con mayuscula"
+    },
+    {
+      "name": "SinArticulos",
+      "description": "Palabras que empiezan con mayuscula de mas de 3 letras"
+    },
+    {
+      "name": "RandomWord",
+      "description": "Algunas palabras que empiezan con mayuscula elegidas aleatoriamente"
+    }
+]
